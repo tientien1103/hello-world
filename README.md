@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub.
-I love :coffee: :sushi:, and :movie.
+I love :coffee: :sushi:, and :movie:.
